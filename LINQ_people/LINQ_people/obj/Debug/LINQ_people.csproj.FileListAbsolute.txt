@@ -1,0 +1,10 @@
+C:\Users\305-7\Desktop\Шурков ПР-21\LINQ_people\LINQ_people\bin\Debug\LINQ_people.exe.config
+C:\Users\305-7\Desktop\Шурков ПР-21\LINQ_people\LINQ_people\bin\Debug\LINQ_people.exe
+C:\Users\305-7\Desktop\Шурков ПР-21\LINQ_people\LINQ_people\bin\Debug\LINQ_people.pdb
+C:\Users\305-7\Desktop\Шурков ПР-21\LINQ_people\LINQ_people\obj\Debug\LINQ_people.csproj.AssemblyReference.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\LINQ_people\LINQ_people\obj\Debug\LINQ_people.Form1.resources
+C:\Users\305-7\Desktop\Шурков ПР-21\LINQ_people\LINQ_people\obj\Debug\LINQ_people.Properties.Resources.resources
+C:\Users\305-7\Desktop\Шурков ПР-21\LINQ_people\LINQ_people\obj\Debug\LINQ_people.csproj.GenerateResource.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\LINQ_people\LINQ_people\obj\Debug\LINQ_people.csproj.CoreCompileInputs.cache
+C:\Users\305-7\Desktop\Шурков ПР-21\LINQ_people\LINQ_people\obj\Debug\LINQ_people.exe
+C:\Users\305-7\Desktop\Шурков ПР-21\LINQ_people\LINQ_people\obj\Debug\LINQ_people.pdb
